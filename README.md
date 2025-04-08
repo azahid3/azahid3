@@ -10,6 +10,13 @@ Hello, I am a recent graduate with a profound interest in IT, cloud & cybersecur
 
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to bring value in security/cloud security to help safeguard valuable assets as an aspiring security professional
 
+
+- 🎓 **Education**: B.S. in Information Technology with a concentration in Cyber Security
+- 📚 **Certifications**: CompTIA Security+, AWS Cloud Practitioner, AZ-900 (In Progress)
+- 🛡️ **Skills**: Vulnerability Assessment, Patch Management, IT Auditing, Network Security, SIEM, Incident Response, System Administration
+- 💡 **Passion**: Investigating cyber threats, purple teaming, and cloud security
+- 💻 **Current Work**: Documenting hands-on cybersecurity projects, home labs, and CTFs to showcase real-world problem-solving and technical expertise.
+
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
