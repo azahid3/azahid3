@@ -18,7 +18,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Cyber Website Automation         | [Rainbow Acres Farm](https://rainbow-acres-farm.com/)|
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com)|
+| EDR Detection + Scripting | [Crowdstrike Falcon Lab](https://google.com)|
 | Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://google.com)|
 | Incident Response Planning and Execution      | [SOC Automation Lab](https://google.com)|
 | Case Management with TheHive                  | [SOC Automation Lab](https://google.com)|
