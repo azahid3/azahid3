@@ -17,7 +17,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Building a Cyber Focused Website Ground Up         | [Rainbow Acres Farm](https://rainbow-acres-farm.com/)|
+| Cyber Website Automation         | [Rainbow Acres Farm](https://rainbow-acres-farm.com/)|
 | Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com)|
 | Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://google.com)|
 | Incident Response Planning and Execution      | [SOC Automation Lab](https://google.com)|
