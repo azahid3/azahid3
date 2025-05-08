@@ -19,7 +19,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 |-----------------------------------------------|----------------------------|
 | Cyber Website Automation         | [Rainbow Acres Farm](https://rainbow-acres-farm.com/)|
 | EDR Detection + Scripting | [Crowdstrike Falcon Lab](HL1.pdf)|
-| Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://google.com)|
+| Threat Hunting & Intelligence        | [Unveiling APT28: Strategic Threat Mapping with Diamond Model and Cyber Kill Chain](APT 28 - Fancy Bear.pdf)|
 | Incident Response Planning and Execution      | [SOC Automation Lab](https://google.com)|
 | Case Management with TheHive                  | [SOC Automation Lab](https://google.com)|
 | Scripting and Automation for Threat Mitigation | [SOC Automation Lab](https://google.com)|
