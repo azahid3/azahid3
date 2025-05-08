@@ -11,7 +11,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - 📚 **Certifications**: CompTIA Security+, AWS Cloud Practitioner, AZ-900 (In Progress)
 - 🛡️ **Skills**: Vulnerability Assessment, Patch Management, IT Auditing, Network Security, SIEM, Incident Response, System Administration
 - 💡 **Passion**: Investigating cyber threats, purple teaming, and cloud security
-- 💻 **Current Work**: Documenting hands-on cybersecurity projects, home labs, and CTFs to showcase real-world problem-solving and technical expertise.
+- 💻 **Current Work**: Documenting hands-on cybersecurity projects, home labs,  CTFs, and research to showcase real-world problem-solving and technical expertise.
 
 ## Skills
 
