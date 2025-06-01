@@ -8,7 +8,7 @@ Hello, I am a recent graduate with a profound interest in IT, cloud & cybersecur
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to bring value in security/cloud security to help safeguard valuable assets as an aspiring security professional.
 
 - 🎓 **Education**: B.S. in Information Technology with a concentration in Cyber Security
-- 📚 **Certifications**: CompTIA Security+, AWS Cloud Practitioner, AZ-900 (In Progress)
+- 📚 **Certifications**: CompTIA Security+, AWS Cloud Practitioner, AZ-900
 - 🛡️ **Skills**: Vulnerability Assessment, Patch Management, IT Auditing, Network Security, SIEM, Incident Response, System Administration
 - 💡 **Passion**: Investigating cyber threats, purple teaming, and cloud security
 - 💻 **Current Work**: Documenting hands-on cybersecurity projects, home labs,  CTFs, and research to showcase real-world problem-solving and technical expertise.
@@ -74,13 +74,17 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ## Certifications
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://www.credly.com/badges/5ff8eb1b-ab9e-470a-b9e6-cbdb78377dd1/linked_in_profile">
+    <a href="https://www.credly.com/badges/5ff8eb1b-ab9e-470a-b9e6-cbdb78377dd1/linked_in_profile" target="_blank">
         <img src="https://cin.comptia.org/media/securityplus-logo-certified-ce-jpg.16/full" alt="CompTIA Security+ Badge" style="width: 100px;">
     </a>
-    <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
+    <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
         <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS Cloud Practitioner Badge" style="width: 100px;">
     </a>
+    <a href="https://learn.microsoft.com/en-us/users/arhumbinzahid-9709/credentials/ae080a693b9ed06a?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure Fundamentals AZ-900 Badge" style="width: 100px;">
+    </a>
 </div>
+
 
 
 
